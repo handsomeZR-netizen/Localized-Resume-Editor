@@ -1,4 +1,34 @@
-# 🎯 极简个人简历生成器
+# Localized Resume Editor
+
+<!-- PORTFOLIO-SNAPSHOT:START -->
+<p align="left">
+  <img src="https://img.shields.io/badge/category-Frontend%20or%20full--stack%20web%20project-blue" alt="Category" />
+  <img src="https://img.shields.io/badge/status-Public%20portfolio%20artifact-2ea44f" alt="Status" />
+</p>
+
+> Privacy-first browser resume editor: no login, local editing, WYSIWYG workflow, and export-ready HTML interface.
+
+## Project Snapshot
+
+- Category: Frontend or full-stack web project
+- Stack: HTML, browser-app, html, privacy-first, resume-builder, wysiwyg
+- Status: Public portfolio artifact
+
+## What This Demonstrates
+
+- Presents the project with a clear purpose, technology stack, and review path.
+- Demonstrates frontend delivery, deployment awareness, and user-facing product structure.
+- Keeps implementation details and usage notes close to the code for easier reuse.
+
+## Quick Start
+
+```bash
+Open index.html in a browser
+```
+
+<!-- PORTFOLIO-SNAPSHOT:END -->
+
+## Original Documentation
 
 <div align="center">
 
